@@ -11,3 +11,8 @@
   color: blue;
   width: 50px;
 }
+.navlink:hover {
+  background: white;
+  color: black;
+  cursor: : pointer;
+}
