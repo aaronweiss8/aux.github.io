@@ -3,7 +3,7 @@
   width: 100%;
   background: black;
   color: blue;
-  padding: 100px;
+  padding: 10px;
   display:block;
 }
 body {
@@ -17,7 +17,7 @@ body {
   text-align:center;
   transition: .5s;
   display:inline-block;
-  border-radius: 5px;
+  border-radius: 30px;
 }
 .navlink:hover {
   background: white;
