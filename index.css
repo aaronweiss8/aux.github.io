@@ -1,6 +1,7 @@
 .nav {
   position: fixed;
   width: 100%;
+  height: 20%;
   background: black;
   color: blue;
   padding: 10px;
@@ -10,7 +11,19 @@ body {
 
 }
 .navlink {
-  padding: 5px;
+  padding: 15px;
+  background: grey;
+  color: blue;
+  width: 170px;
+  height: 70%;
+  text-align:center;
+  transition: .5s;
+  display:inline-block;
+  border-radius: 5px;
+}
+
+.navdisplay {
+  padding: 15px;
   background: grey;
   color: blue;
   width: 170px;
