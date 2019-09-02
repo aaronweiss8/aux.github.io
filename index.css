@@ -5,6 +5,9 @@
   color: blue;
   padding: 10px;
 }
+body {
+  padding-top: 100px;
+}
 .navlink {
   padding: 5px;
   background: grey;
