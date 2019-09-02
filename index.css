@@ -4,9 +4,10 @@
   background: black;
   color: blue;
   padding: 10px;
+  display:block;
 }
 body {
-  
+
 }
 .navlink {
   padding: 5px;
@@ -15,6 +16,7 @@ body {
   width: 50px;
   text-align:center;
   transition: .5s;
+  display:block;
 }
 .navlink:hover {
   background: white;
