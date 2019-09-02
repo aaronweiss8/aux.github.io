@@ -3,4 +3,11 @@
   width: 100%;
   background: black;
   color: blue;
+  padding: 10px;
+}
+.navlink {
+  padding: 5px;
+  background: grey;
+  color: blue;
+  width: 50px;
 }
