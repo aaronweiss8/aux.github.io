@@ -10,6 +10,8 @@
   background: grey;
   color: blue;
   width: 50px;
+  text-align:center;
+  transition: 5ms;
 }
 .navlink:hover {
   background: white;
