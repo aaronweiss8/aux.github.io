@@ -11,7 +11,7 @@
   color: blue;
   width: 50px;
   text-align:center;
-  transition: 5ms;
+  transition: .5s;
 }
 .navlink:hover {
   background: white;
