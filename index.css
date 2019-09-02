@@ -17,6 +17,7 @@ body {
   text-align:center;
   transition: .5s;
   display:block;
+  border-radius: 5px;
 }
 .navlink:hover {
   background: white;
