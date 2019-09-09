@@ -13,7 +13,7 @@ body {
 .navlink {
   padding: 5px;
   color: blue;
-  border-right: 1px white;
+  border-right: 1px solid white;
   width: 150px;
   padding-top: 15px;
   text-align:center;
