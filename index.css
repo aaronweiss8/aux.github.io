@@ -13,7 +13,6 @@ body {
   padding: 5px;
   background: grey;
   color: blue;
-  width: 170px;
   text-align:center;
   transition: .5s;
   display:inline-block;
