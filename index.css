@@ -16,6 +16,7 @@ body {
   color: blue;
   width: 150px;
   height: 100%;
+  padding-top:50%;
   text-align:center;
   transition: .5s;
   display:inline-block;
