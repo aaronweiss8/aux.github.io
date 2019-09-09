@@ -5,7 +5,7 @@
   color: blue;
   padding: 10px;
   display:block;
-  height: 100px;
+  height: 70px;
 }
 body {
   padding: 0px;
@@ -15,6 +15,7 @@ body {
   background: grey;
   color: blue;
   width: 150px;
+  height: 100%;
   text-align:center;
   transition: .5s;
   display:inline-block;
