@@ -12,10 +12,10 @@ body {
 }
 .navlink {
   padding: 5px;
-  background: grey;
   color: blue;
+  border-color:transparent;
+  border-left-color: white;
   width: 150px;
-  height: 100%;
   padding-top: 15px;
   text-align:center;
   transition: .5s;
