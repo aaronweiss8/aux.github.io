@@ -13,7 +13,6 @@ body {
 .navlink {
   padding: 5px;
   color: blue;
-  border-color:transparent;
   border-right: 1px white;
   width: 150px;
   padding-top: 15px;
@@ -23,7 +22,7 @@ body {
   border-radius: 5px;
 }
 .navlink:hover {
-  background: white;
+  background: grey;
   color: black;
   cursor: pointer;
 }
