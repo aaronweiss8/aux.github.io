@@ -1,0 +1,29 @@
+.nav {
+  position: absolute;
+  width: 100%;
+  background: black;
+  color: blue;
+  padding: 10px;
+  display:block;
+  height: 70px;
+}
+body {
+  padding: 0px;
+}
+.navlink {
+  padding: 5px;
+  color: blue;
+  border-right: 1px solid white;
+  width: 150px;
+  padding-top: 15px;
+  text-align:center;
+  transition: .5s;
+  display:inline-block;
+  border-radius: 5px;
+  border-width: 2px;
+}
+.navlink:hover {
+  background: grey;
+  color: black;
+  cursor: pointer;
+}
