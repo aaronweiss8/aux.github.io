@@ -20,6 +20,7 @@ body {
   transition: .5s;
   display:inline-block;
   border-radius: 5px;
+  border-width: 2px;
 }
 .navlink:hover {
   background: grey;
